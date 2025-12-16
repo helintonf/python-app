@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: helintonf/python-app
   pullPolicy: IfNotPresent
-  tag: d3898d
+  tag: 1176eb
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
